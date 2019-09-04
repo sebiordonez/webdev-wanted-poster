@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 8px solid rgb(14, 3, 3);
+    width: 930px;
+    height: 900px;
+    background: gray
+} 
+h1{
+    font-size: 50px; 
+    margin: 5px;
+    margin-top: 40px;
+}
+p{
+    font-size: 26px 
+
+
+}
+h4 {
+    font-size: 46px
+}
+img {
+    border: 8px dashed black
+}
+h3 {
+    font-size: 24px
+}
+p{
+    margin-top: 1px
+}
